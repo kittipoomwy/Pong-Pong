@@ -25,4 +25,6 @@ This is my first game project created in Unity as a part of my learning journey 
 
 ## 🎮 How to Run
 1. Clone the repository:
-```bashhttps://github.com/kittipoomwy/Pong-Pong.git
+```bash
+https://github.com/kittipoomwy/Pong-Pong.git
+```
